@@ -1,2 +1,2 @@
 # leo-primeiro-diretorio
-meu primeiro diretório
+meu primeiro diretorio
